@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Finder</string>
+    <string name="tile_label">Find App</string>
+</resources>
